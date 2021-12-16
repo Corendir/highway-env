@@ -3,7 +3,7 @@ The notebook you have to open for Policy Gradient is Highway - Policy Gradient.i
 
 You have access to pre-trained models by de-commenting the line indicated in the sixth cell.
 - model_1 : without ReLU layer (maximise episode length)
-- model_2 : with a ReLU layer after Conv2d (minimise loss, most interessing here) <-
+- model_2 : with a ReLU layer after Conv2d (minimise loss, most interessing here with PG) <-
 - model_3 : with a ReLU layer before Conv2d (maximise episode length)
 
 
